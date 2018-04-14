@@ -35,7 +35,7 @@ So, the objective was to find a way to just put the HTML elements on the page, s
 1. [Installation](https://github.com/skydiver/october-plugin-forms/blob/master/docs/1.INSTALLATION.md)
 2. [Usage](https://github.com/skydiver/october-plugin-forms/blob/master/docs/2.USAGE.md)
 3. [Components](https://github.com/skydiver/october-plugin-forms/blob/master/docs/3.COMPONENTS.md)
-4. [Validation](https://github.com/skydiver/october-plugin-forms/blob/master/docs/VALIDATION.md)
+4. [Validation](https://github.com/skydiver/october-plugin-forms/blob/master/docs/4.VALIDATION.md)
 5. [Custom Validation Messages](https://github.com/skydiver/october-plugin-forms/blob/master/docs/CUSTOM-VALIDATION-MESSAGES.md)
 6. [Security](https://github.com/skydiver/october-plugin-forms/blob/master/docs/SECURITY.md)
 7. [Uploads [BETA]](https://github.com/skydiver/october-plugin-forms/blob/master/docs/UPLOADS.md)
